@@ -10,7 +10,7 @@ Execute an appropriate CREATE TABLE statement to define the "demo" table structu
 Use INSERT INTO statements to add the provided data to the "demo" table.
 Perform specific queries to test the "demo" database and save the results under predefined variable names: row_count, xy_at_least_5, and unique_y.
 
-##Part 2 - The Northwind Database - Basic Queries
+## Part 2 - The Northwind Database - Basic Queries
 In this part, we work with the "northwind_small.sqlite3" database, which contains multiple tables with various relationships. We need to answer specific questions by writing SQL queries and retrieve data from the database. The tasks in this part include:
 
 Connect to the "northwind_small.sqlite3" database.
